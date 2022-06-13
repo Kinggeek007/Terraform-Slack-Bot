@@ -1,0 +1,6 @@
+make: Entering directory `/Users/kinggeek/Documents/GitHub/terraform-Slack-Bot'
+terraform init
+terraform fmt -check
+AWS_REGION=us-east-1 terraform validate
+make: Leaving directory `/Users/kinggeek/Documents/GitHub/terraform-Slack-Bot'
+ 
